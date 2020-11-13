@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**RoastBeefKazenakis/RoastBeefKazenakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚙︎ Thomas Sabino-Benowitz
+## *Hi-- 👋*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hi, I'm a Swift developer based in South Florida.**
+
+ - 🌯 Currently looking for remote work in the iOS field
+ - 📲 Tons of Swift knowledge as well as
+ - 🅲 Objective-C and
+ - 🐍 some Python
+  -  ƛ About to graduate from Lambda School iOS program, Nov. 2020
+
+Check out some of my profiles, and maybe hire me?
+
+ - My [LinkedIn](https://www.linkedin.com/in/thomassabinobenowitz/) 💼
+ - This is my [Github](https://www.github.com/RoastBeefKazenakis) 😺
+- Rarely will you find me on [twitter](https://www.twitter.com/sabinowitz) 🐦
