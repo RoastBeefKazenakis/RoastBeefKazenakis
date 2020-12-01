@@ -9,7 +9,7 @@
  - 📲 Tons of Swift knowledge as well as
  - 🅲 Objective-C and
  - 🐍 some Python
-  -  ƛ About to graduate from Lambda School iOS program, Nov. 2020
+  -  ƛ Graduated from Lambda School iOS program, Nov. 2020
 
 Check out some of my profiles, and maybe hire me?
 
