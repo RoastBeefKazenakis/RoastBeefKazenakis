@@ -18,3 +18,5 @@ Check out some of my profiles, and maybe hire me?
 - Rarely will you find me on [twitter](https://www.twitter.com/sabinowitz) 🐦
  
 ➡️ Developing my latest apps off of Github for privacy reasons, hence the grey squares ⬅️
+
+if you're interested in what I'm working on, shoot me a message anywhere or email me at sabinowitz@gmail.com
