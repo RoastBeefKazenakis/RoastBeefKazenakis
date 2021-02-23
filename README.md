@@ -16,3 +16,5 @@ Check out some of my profiles, and maybe hire me?
  - My [LinkedIn](https://www.linkedin.com/in/thomassabinobenowitz/) 💼
  - This is my [Github](https://www.github.com/RoastBeefKazenakis) 😺
 - Rarely will you find me on [twitter](https://www.twitter.com/sabinowitz) 🐦
+
+Developing my latest app off of Github for privacy reasons, hence the grey squares ☠️
