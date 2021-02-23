@@ -7,7 +7,7 @@
 
  - 🌯 Currently looking for remote work in the iOS field, but willing to relocate
  - 📲 Tons of Swift knowledge as well as
- - 🅲 Objective-C and
+ - 🅲 Objective-C and SwiftUI 
  - 🐍 some Python
   -  ƛ Graduated from Lambda School iOS program, Nov. 2020
 
