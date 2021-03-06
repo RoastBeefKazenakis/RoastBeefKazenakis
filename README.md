@@ -17,6 +17,6 @@ Check out some of my profiles, and maybe hire me?
  - This is my [Github](https://www.github.com/RoastBeefKazenakis) 😺
 - Rarely will you find me on [twitter](https://www.twitter.com/sabinowitz) 🐦
  
-➡️ Developing my latest apps privately, hence the grey squares ⬅️
+➡️ Developing my latest apps privately ⬅️
 
 if you're interested in what I'm working on, shoot me a message anywhere or email me at sabinowitz@gmail.com
