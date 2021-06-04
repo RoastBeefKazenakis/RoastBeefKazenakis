@@ -3,7 +3,7 @@
 ## *Hi-- 👋*
 
 
-**Hi, I'm a Swift developer based in Clearwater Florida.**
+**Hi, I'm a Swift developer based in the Tampa Bay area in Florida.**
 
  - 🌯 Currently looking for remote work in the iOS field, but willing to relocate
  - 📲 Tons of Swift knowledge as well as
